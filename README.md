@@ -98,15 +98,9 @@ LUXORA/
 
 ---
 
-## 📄 License
-
-This project is licensed under MIT. See [LICENSE](LICENSE.md) for details.
-
----
-
 ## 📬 Contact
 
 - **Maintainer:** Your Name
 - **GitHub:** [Surya-531](https://github.com/Surya-531)
-- **Site:** luxora-surya.netlify.com
+- **Site:** luxora-surya.netlify.app
 
