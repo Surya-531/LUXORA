@@ -102,5 +102,5 @@ LUXORA/
 
 - **Maintainer:** Your Name
 - **GitHub:** [Surya-531](https://github.com/Surya-531)
-- **Site:** luxora-surya.netlify.app
+- **Site:** [luxora-573](https://luxora-573.netlify.app/)
 
